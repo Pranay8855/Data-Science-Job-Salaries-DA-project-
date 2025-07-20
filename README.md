@@ -8,7 +8,7 @@ A comprehensive project to analyze and predict data science job salaries using m
 This project focuses on exploratory data analysis (EDA) and machine learning modeling of Data Science Job Salaries across various roles, company types, experience levels, and geographical locations. The aim is to derive insights from the dataset and build a predictive model that estimates salaries based on job features.
 
 📊 Dataset
-Source: Kaggle - Data Science Salaries Dataset
+Source: unified internship projects - Data Science Salaries Dataset
 
 Records: 607+ entries
 
